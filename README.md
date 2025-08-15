@@ -30,9 +30,9 @@
 - [Post idea] “Debug diary: fixing CORS in prod with cookies”
 
 ### Talk to me
-- 💼 LinkedIn: https://www.linkedin.com/in/valeria-paz-40304b45/
-- 🌐 Portfolio 3D: https://www.behance.net/valeriapaz
-- ✉️ Email: val.paz@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/valeria-paz-40304b45/)
+- 🌐 [Portfolio 3D](https://www.behance.net/valeriapaz)
+- ✉️ [Email](mailto:val.paz@gmail.com)
 
 ---
 
